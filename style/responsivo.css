@@ -38,6 +38,10 @@
         font-size: 14px;
     }
 
+    .main__container .main__conteudo .main-textos {
+        width: 100%;
+    }
+
     .cartas__container .section__titulo {
         font-size: 40px;
     }
@@ -60,10 +64,17 @@
     }
 
     .rodape__container h1 {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     .rodape__container h2 {
-        font-size: 30px;
+        font-size: 20px;
+    }
+
+    .musica__container {
+        padding: 100px 20px;
+    }
+    .musica {
+        padding: 30px 10px;
     }
 }
